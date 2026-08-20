@@ -7,6 +7,7 @@ First order actuator dynamics model
 <img width="1181" height="552" alt="3loop_firstorderactuator dyanmics" src="https://github.com/user-attachments/assets/48f79bb4-e0b8-4d7c-a97a-6af634da3929" />
 
 EM linear actuator model
+
 <img width="571" height="558" alt="3loop_actuator" src="https://github.com/user-attachments/assets/bcdedc38-7979-4ca9-a402-4936b2c9daf5" />
 
 ISO Standard filter
